@@ -1,0 +1,4 @@
+python fluidix_merge.py -i  /Users/raniba/Documents/Dev/fluidix_merge/data/196_input/SA00728651_Box.csv -t templates/template_196.xlsx -p 196 -op SA00728651_Box -od data/196_output
+python fluidix_merge.py -i  /Users/raniba/Documents/Dev/fluidix_merge/data/196_input/SA00728659_Box.csv -t templates/template_196.xlsx -p 196 -op SA00728659_Box -od data/196_output
+python fluidix_merge.py -i  /Users/raniba/Documents/Dev/fluidix_merge/data/196_input/SA00728660_Box.csv -t templates/template_196.xlsx -p 196 -op SA00728660_Box -od data/196_output
+python fluidix_merge.py -i  /Users/raniba/Documents/Dev/fluidix_merge/data/196_input/SA00728662_Box.csv -t templates/template_196.xlsx -p 196 -op SA00728662_Box -od data/196_output
