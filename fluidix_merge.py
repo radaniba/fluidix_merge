@@ -11,7 +11,7 @@ import string
 def cmdline_args():
     # Make parser object
     p = argparse.ArgumentParser(description="""
-        This is a test of the command line argument parser in Python.
+        Fluidx Utility to copy files from instrument into custom made Templates for Printing
         """,
                                 formatter_class=argparse.ArgumentDefaultsHelpFormatter)
 
