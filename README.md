@@ -6,7 +6,7 @@
 usage: fluidix_merge.py [-h] -i INPUT_FILENAME -t TEMPLATE_FILENAME -p
                         {96,48,196} -op OUTPUT_PREFIX -od OUTPUT_DIRECTORY
 
-This is a test of the command line argument parser in Python.
+Fluidx Utility to copy files from instrument into custom made Templates for Printing.
 
 optional arguments:
   -h, --help            show this help message and exit
